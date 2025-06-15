@@ -1,1 +1,0 @@
-WHERE CustomerID IN (SELECT CustomerID FROM BestCustomer);

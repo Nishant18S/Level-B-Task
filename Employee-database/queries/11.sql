@@ -1,3 +1,0 @@
-SELECT TOP 1 *
-FROM Orders
-ORDER BY OrderDate ASC, OrderID ASC;
